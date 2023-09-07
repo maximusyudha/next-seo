@@ -5,7 +5,9 @@ const seoConfig: DefaultSeoProps = {
     type: 'website',
     locale: 'en_IE',
     url: 'https://www.url.ie/',
-    siteName: 'SiteName',
+    siteName: 'next-seo',
+    title: 'Cipung Bahagia',
+    description: 'Cipung Alergi Gula'
   },
   twitter: {
     handle: '@handle',
